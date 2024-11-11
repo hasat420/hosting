@@ -1,0 +1,29 @@
+{
+        "person": [
+        {
+            "Name": "Rahim",
+            "age": 25,
+            "hometown": "gaibandha",
+            "marrid": false
+        },
+        {
+            "Name": "morim",
+            "age": 25,
+            "hometown": "Dhaka",
+            "marrid": false
+        },
+        {
+            "Name": "rana",
+            "age": 25,
+            "hometown": "ranagpur",
+            "marrid": false
+        },
+        {
+            "Name": "rana",
+            "age": 25,
+            "hometown": "ranagpur",
+            "marrid": false
+        }
+
+    ]
+}
